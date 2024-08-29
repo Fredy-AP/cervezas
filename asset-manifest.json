@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cervezas/static/css/main.14ef5cc9.css",
+    "main.js": "/cervezas/static/js/main.a982a0ad.js",
+    "index.html": "/cervezas/index.html",
+    "main.14ef5cc9.css.map": "/cervezas/static/css/main.14ef5cc9.css.map",
+    "main.a982a0ad.js.map": "/cervezas/static/js/main.a982a0ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14ef5cc9.css",
+    "static/js/main.a982a0ad.js"
+  ]
+}
